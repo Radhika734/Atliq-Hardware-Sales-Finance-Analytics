@@ -46,3 +46,6 @@ This project not only allowed me to apply my technical skills but also provided 
 - Market Performance and Sales Targets Comparison Report
 - Profit and Loss (P&L) Reports by Fiscal Year and Months
 - Profit and Loss (P&L) Reports by Markets
+[View Project Report](Project_Report.pdf)
+- [📄 Customer Performance Report](reports/Atliq_Customer_Performance_Report.pdf)
+
