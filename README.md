@@ -17,7 +17,7 @@ This project is focused on achieving the following key objectives:
 
 - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
   
-*?*2.Profit and Loss (P&L) Reports by Markets:**
+**2.Profit and Loss (P&L) Reports by Markets:**
 
 - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
   
